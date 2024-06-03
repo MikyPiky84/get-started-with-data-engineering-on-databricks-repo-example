@@ -4,4 +4,6 @@
 # MAGIC   
 # MAGIC
 # MAGIC #### Was geht hier ab
-# not much
+# MAGIC # not much
+# MAGIC
+# MAGIC ##### maybe something
